@@ -1,7 +1,7 @@
 # dio-desaf-git-first-rep
-Desafio de Projeto-Dio Git/GitHub
+ * Desafio de Projeto-Dio Git/GitHub
 
-##Links Úteis
+   ## Links Úteis ##
 
 [Webhook - Hookdeck](https://hookdeck.com/)
 
