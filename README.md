@@ -1,5 +1,5 @@
 # dio-desaf-git-first-rep
- * Desafio de Projeto-Dio Git/GitHub
+ * Repositório - Desafio de Projeto-Dio Git/GitHub
 
    ## Links Úteis ##
 
